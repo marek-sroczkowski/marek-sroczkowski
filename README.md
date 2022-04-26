@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marek-sroczkowski
-- 👀 I’m interested in ... programming on the .NET platform and constructing and soldering circuits based on microcontrollers
+- 👀 I’m interested in ... programming on the .NET platform
 - 🌱 I’m currently learning ... Xamarin, .NET MAUI and cloud services offered by Azure
 - 💞️ I’m looking to collaborate on ... people who support open-source and are willing to face new challenges
 - 📫 How to reach me ... on my email marek.sroczkowski.dev@gmail.com
